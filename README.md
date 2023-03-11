@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dee-nDee
 - 👀 I’m interested in analyzing data to obtain insights, creating visuals, reading, 
 and basically learning new things
-- 🌱 I’m currently learning PowerBi
+
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 Reach me on👇🏾 
 
